@@ -27,3 +27,5 @@ Solve this problem with a hash table.
 Limits:
 
 * The input list can contain approximately 5,000,000 elements.
+
+# return the absolute value of numbers that have a pos and neg version of the number in the list
